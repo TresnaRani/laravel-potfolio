@@ -314,7 +314,7 @@
             </li>
 
             <li><i class="fas fa-phone mt-4 fa-2x"></i>
-                <p>+ 01799993333</p>
+                <p>+ 01799223333</p>
             </li>
 
             <li><i class="fas fa-envelope mt-4 fa-2x"></i>
