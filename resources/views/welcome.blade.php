@@ -318,7 +318,7 @@
             </li>
 
             <li><i class="fas fa-envelope mt-4 fa-2x"></i>
-                <p>tr@gmail.com</p>
+                <p>t@gmail.com</p>
             </li>
         </ul>
     </div>
