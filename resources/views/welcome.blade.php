@@ -233,7 +233,7 @@
             </section>
 
             <!--Section: Contact v.2-->
-<section class="mb-4" id="contact" style="margin: 50px 50px 50px 50px;margin-bottom:100px!important">
+<section class="mb-4" id="contact" style="margin: 50px 50px 50px 50px;margin-bottom:90px!important">
 
 <!--Section heading-->
 <h2 class="h1-responsive font-weight-bold text-center my-4">Contact</h2>
