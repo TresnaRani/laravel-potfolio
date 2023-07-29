@@ -238,7 +238,7 @@
 <!--Section heading-->
 <h2 class="h1-responsive font-weight-bold text-center my-4">Contact</h2>
 <!--Section description-->
-<p class="text-center w-responsive mx-auto mb-5">Do you have any more questions? Please do not hesitate to contact directly.I will come back to you within
+<p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Please do not hesitate to contact directly.I will come back to you within
     a matter of hours to help you.</p>
 
 <div class="row">
