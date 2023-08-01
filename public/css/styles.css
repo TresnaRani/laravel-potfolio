@@ -319,6 +319,28 @@ P::first-letter{
  
 }
 
+.ESAA{
+ 
+  background-color: coral;
+  width: 290px;
+  height: 80px;
+  font-size: 1.9rem;
+  text-align: center;
+  color: white;
+  margin: 0 auto;
+  transition-property: width;
+  transition-duration: .8s;
+  transition-delay: 1s;
+  transition-timing-function: ease-in-out;
+  padding: 10px;
+
+}
+.ESAA:hover{
+  background-color: green;
+  width: 340px;
+ 
+}
+
 
 
 
@@ -812,6 +834,7 @@ progress {
 .list-unstyled {
   padding-left: 0;
   list-style: none;
+  font-size: 1rem;
 }
 
 .list-inline {
@@ -11685,3 +11708,4 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+

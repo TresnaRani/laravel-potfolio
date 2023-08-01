@@ -44,6 +44,8 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
 					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#project">Projects</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Blog">Blog</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Appointments">Appointments</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#contact">Contact</a></li>
                 </ul>
             </div>
@@ -248,14 +250,15 @@
 
 
              <!-- Blog-->
-             <section class="resume-section" id="awards">
+             <section class="resume-section" id="Blog">
                 <div class="resume-section-content">
                     <h2 class="ES mb-5">Blog</h2>
+
 
                     
     <video width="400" controls muted >
 
-<source src="assets/file/Ram Siya Ram.mp4" type="video/mp4">
+<source src="assets/file/ram.mp4" type="video/mp4">
 
 Your browser doesn't support html5 video element
 
@@ -265,11 +268,18 @@ Your browser doesn't support html5 video element
                    </div>
 </section>
 
+<!-- Appointments-->
+<section class="resume-section" id="Appointments">
+                <div class="resume-section-content">
+                    <h2 class="ESAA mb-5">Appointments</h2>
+
+
+     
             <!--Section: Contact v.2-->
 <section class="mb-4" id="contact" style="margin: 50px 50px 50px 50px;margin-bottom:90px!important">
 
 <!--Section heading-->
-<h2 class="h1-responsive font-weight-bold text-center my-4">Contact</h2>
+<h2 class=" ES h1-responsive font-weight-bold text-center my-4">Contact</h2>
 <!--Section description-->
 <p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Please do not hesitate to contact directly.I will come back to you within
     a matter of hours to help you.</p>
@@ -288,6 +298,7 @@ Your browser doesn't support html5 video element
                     <div class="md-form mb-0">
                         <input type="text" id="name" name="name" class="form-control">
                         <label for="name" class="">Your name</label>
+                        <br>
                     </div>
                 </div>
                 <!--Grid column-->
@@ -297,6 +308,7 @@ Your browser doesn't support html5 video element
                     <div class="md-form mb-0">
                         <input type="text" id="email" name="email" class="form-control">
                         <label for="email" class="">Your email</label>
+                        <br>
                     </div>
                 </div>
                 <!--Grid column-->
@@ -310,6 +322,7 @@ Your browser doesn't support html5 video element
                     <div class="md-form mb-0">
                         <input type="text" id="subject" name="subject" class="form-control">
                         <label for="subject" class="">Subject</label>
+                        <br>
                     </div>
                 </div>
             </div>
@@ -324,6 +337,7 @@ Your browser doesn't support html5 video element
                     <div class="md-form">
                         <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
                         <label for="message">Your message</label>
+                        <br>
                     </div>
 
                 </div>
@@ -342,16 +356,16 @@ Your browser doesn't support html5 video element
     <!--Grid column-->
     <div class="col-md-3 text-center">
         <ul class="list-unstyled mb-0">
-            <li><i class="fas fa-map-marker-alt fa-2x"></i>
-                <p>Bogura, Bangladesh</p>
+            <li><i class="fas fa-map-marker-alt fa-1x"></i>
+                <span>Bogura, Bangladesh</span>
             </li>
 
-            <li><i class="fas fa-phone mt-4 fa-2x"></i>
-                <p>+ 01799223333</p>
+            <li><i class="fas fa-phone mt-4 fa-1x"></i>
+                <span>+ 01799223333</span>
             </li>
 
-            <li><i class="fas fa-envelope mt-4 fa-2x"></i>
-                <p>tr@gmail.com</p>
+            <li><i class="fas fa-envelope mt-4 fa-1x"></i>
+                <span>tr@gmail.com</span>
             </li>
         </ul>
     </div>
