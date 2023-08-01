@@ -251,6 +251,17 @@
              <section class="resume-section" id="awards">
                 <div class="resume-section-content">
                     <h2 class="ES mb-5">Blog</h2>
+
+                    
+    <video width="400" controls muted >
+
+<source src="assets/file/Ram Siya Ram.mp4" type="video/mp4">
+
+Your browser doesn't support html5 video element
+
+
+
+</video>
                    </div>
 </section>
 
