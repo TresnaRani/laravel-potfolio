@@ -171,15 +171,16 @@
 								<img class="card-img-top" src="assets/img/p-4.png" alt="Card image cap">
 								<div class="card-body">
 								  <h5 class="card-title">Library Management System</h5>
-								  <p class="card-text">This library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates. This system completely automates all your library's activities.</p>
+								  <h6 class="card">This library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates. This system completely automates all your library's activities.</h6>
 								  <a href="http://seminar-library-cse-ru.infinityfreeapp.com/" class="btn btn-success" target="_blank">View Demo</a>
 								</div>
 							  </div>
-							  <div class="card" style="margin-right:10px;">
+							  
+                              <div class="card" style="margin-right:10px;">
 								<img class="card-img-top" src="assets/img/p-2.png" alt="Card image cap">
 								<div class="card-body">
 								  <h5 class="card-title">Advance Coaching Management System</h5>
-								  <p class="card-text">Advance Coaching Management System is a full Educational management software. You will find everything you need to run your Institution digitally.</p>
+								  <h6 class="card-text">Advance Coaching Management System is a full Educational management software. You will find everything you need to run your Institution digitally.</h6>
 								  <br>
                                   <br>
                                   <br>
@@ -190,7 +191,7 @@
 								<img class="card-img-top" src="assets/img/p-5.png" alt="Card image cap">
 								<div class="card-body">
 								  <h5 class="card-title">Smart Bidding Tour With AI</h5>
-								  <p class="card-text">Our system is an end to end complete software solution which will help the tourists to provide service manager,booking pricing and other inventory.</p>
+								  <h6 class="card-text">Our system is an end to end complete software solution which will help the tourists to provide service manager,booking pricing and other inventory.</h6>
 								  <br>
                                   <br>
                                   <br>

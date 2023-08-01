@@ -284,6 +284,9 @@ P::first-letter{
   font-size: 1.5rem;
   color: chocolate;
 }
+.card:hover{
+  box-shadow: 5px 5px 8px chartreuse;
+}
 
 
 
