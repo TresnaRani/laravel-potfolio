@@ -284,6 +284,10 @@ P::first-letter{
   font-size: 1.5rem;
   color: chocolate;
 }
+.fa-ul:hover{
+  font-size: 1.5rem;
+  color: green;
+}
 .card:hover{
   box-shadow: 15px 15px 15px  chartreuse;
  
@@ -296,16 +300,17 @@ P::first-letter{
 .ESA{
  
   background-color: coral;
-  width: 400px;
-  height: 190px;
-  font-size: 1.4rem;
+  width: 280px;
+  height: 80px;
+  font-size: 1.9rem;
   text-align: center;
   color: white;
   margin: 0 auto;
   transition-property: width;
-  transition-duration: 1s;
+  transition-duration: .8s;
   transition-delay: 1s;
   transition-timing-function: ease-in-out;
+  padding: 10px;
 
 }
 .ESA:hover{

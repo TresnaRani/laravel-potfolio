@@ -246,6 +246,14 @@
                 </div>
             </section>
 
+
+             <!-- Blog-->
+             <section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="ES mb-5">Blog</h2>
+                   </div>
+</section>
+
             <!--Section: Contact v.2-->
 <section class="mb-4" id="contact" style="margin: 50px 50px 50px 50px;margin-bottom:90px!important">
 
