@@ -17,9 +17,9 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap" rel="stylesheet">  <!-- Core theme CSS (includes Bootstrap)-->
         <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Roboto:wght@100&display=swap" rel="stylesheet">
-<link href="{{asset('css/styles.css')}}" rel="stylesheet" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Roboto:wght@100&display=swap" rel="stylesheet">
+        <link href="{{asset('css/styles.css')}}" rel="stylesheet" />
     </head>
     <body id="page-top mb-5">
         <!-- Navigation-->
@@ -48,23 +48,23 @@
                 <div class="resume-section-content">
                     <h1 class="mb-0">
                         Tresna
-                        <span class="text-warning">Rani</span>
+                        <span class="name">Rani</span>
                     </h1>
                     <div class="subheading mb-5">
                         Bogura,Bangladesh · (880) 1737336101 ·
-                        <a href="mailto:tresna312@gmail.com">tresna312@gmail.com</a>
+                        <a href="#">tresna312@gmail.com</a>
                     </div>
-                    <p class="lead mb-5">I am experienced in Laravel frameworks to provide a high secure  website. I am also make a website using PHP,HTML,CSS, JavaScript and MySQL.</p>
+                    <p class="lead mb-5">I'm experienced in Laravel frameworks to provide a high secure  website. I am also make a website using PHP,HTML,CSS, JavaScript and MySQL.</p>
                     <div class="social-icons">
                         <a class="social-icon linkedin" style="background-color:white;color:aqua;" href="https://www.linkedin.com/in/tresna-rani-b20b11248/"><i class="fab fa-linkedin-in"></i></a>
                         <a class="social-icon github" style="background-color:white;color:black;" href="https://github.com/TresnaRani"><i class="fab fa-github"></i></a>
                         <!--<a class="social-icon" href="#!"><i class="fab fa-twitter"></i></a> -->
-                        <a class="social-icon facebook" style="background-color:blue;color:white;" href="https://www.facebook.com/profile.php?id=100083832080295"><i class="fab fa-facebook-f"></i></a>
+                        <a class="social-icon facebook" style="background-color:white;color:blue;" href="https://www.facebook.com/profile.php?id=100083832080295"><i class="fab fa-facebook-f"></i></a>
                     </div>
 					<br>
 					<br>
                     <div class="cv">
-                    <a href="assets/file/cv.pdf" class="btn btn-info" target="_blank"download>Download my CV</a>
+                    <a href="assets/file/cv.pdf" class="btn btn-success" target="_blank"download>Download my CV</a>
                 </div>
                     </div>
 				
@@ -74,14 +74,15 @@
             <!-- Experience-->
             <section class="resume-section" id="experience">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Experience</h2>
+                    <h2 class="exp mb-5">Experience</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0" style="font-family: 'Roboto', sans-serif;">Full Stack Web Developer (Laravel)</h3>
-                            <div class="subheading mb-3"> <a class="social-icon2" href="#" style="text-decoration: none;" target="_blank">STDevs</a></div>
+                        
+                            <h3 class="intro mb-0" style="font-family: 'Roboto', sans-serif;">Full Stack Web Developer (Laravel)</h3>
+                            <div class="subheading mb-3"> <a class="social-icon2" href="#" style="text-decoration: none;" target="_blank">STDEVS</a></div>
                             <p>Best communication with team member.Follow MVC pattern.Good performance at OOD(Object Oriented Design)</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">October 2021 - Present</span></div>
+                        <div class="flex-shrink-0"><span class="text-dark"><b>DATE :</b>October 2021 - Present</span></div>
                     </div>
                   
                 </div>
