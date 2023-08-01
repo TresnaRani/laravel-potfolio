@@ -91,15 +91,15 @@
             <!-- Education-->
             <section class="resume-section" id="education">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Education</h2>
+                    <h2 class=" ES mb-5">Education</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            <h3 class="mb-0"style="font-family: 'Roboto', sans-serif;">University of Rajshahi</h3>
-                            <div class="subheading mb-3">Bachelor of Science</div>
-                            <div>Computer Science and Engineering</div>
+                            <h3 class=" intro mb-0"style="font-family: 'Roboto', sans-serif;">University of Rajshahi</h3>
+                            <div class="intro1 mb-3">Bachelor of Science</div>
+                            <div class="text1">Computer Science and Engineering</div>
                            
                         </div>
-                        <div class="flex-shrink-0"><span class="text-primary">February 2018 - January 2023</span></div>
+                        <div class="flex-shrink-0"><span class="text"><b>DATE :</b>February 2018 - January 2023</span></div>
                     </div>
                   
                 </div>
@@ -110,29 +110,29 @@
             <!-- Skills-->
             <section class="resume-section" id="skills">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Skills</h2>
-                    <div class="subheading mb-3">Programming Languages & Tools</div>
+                    <h2 class=" ES mb-5">Skills</h2>
+                    <div class="intro1 mb-3">Programming Languages & Tools</div>
                     <label for="" style="font-size:20px;"><b>Html</b></label>
                     <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%; background-color:green;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">100%</div>
+                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 100%; background-color:green;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>100%</b></div>
                     </div>
                     <label for="" style="font-size:20px;"><b>CSS</b></label>
                     
                     <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 98%; background-color:green;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">98%</div>
+                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 98%; background-color:green;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>98%</b></div>
                     </div>
                     <label for="" style="font-size:20px;"><b>JS</b></label>
                     
                     <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 90%; background-color:green;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">90%</div>
+                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 90%; background-color:green;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>90%</b></div>
                     </div>
                     <label for="" style="font-size:20px;"><b>Laravel</b></label>
                     
                     <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 80%; background-color:green;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100">80%</div>
+                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 80%; background-color:green;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>80%</b></div>
                     </div>
 </br>
-                    <div class="subheading mb-3">Workflow</div>
+                    <div class="wf mb-3">Workflow</div>
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-check"></i></span>
@@ -159,12 +159,10 @@
 			
 			 <section class="resume-section" id="project">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Projects</h2>
+                    <h2 class=" ES mb-5">Projects</h2>
                     <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">
-                            
-							 
-							 
+        
 							</div>
 						 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
                         <div class="flex-grow-1">

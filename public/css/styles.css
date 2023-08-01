@@ -233,6 +233,62 @@ P::first-letter{
 
 
 
+.ES{
+ 
+  background-color: coral;
+  width: 205px;
+  height: 80px;
+  text-align: center;
+  color: white;
+  margin: 0 auto;
+  transition-property: width;
+  transition-duration: 2s;
+  transition-delay: 1s;
+  transition-timing-function: ease-in-out;
+
+}
+.ES:hover{
+  background-color: green;
+  width: 300px;
+ 
+}
+.intro1{
+  font-size: 2.2rem;
+}
+.intro1:hover{
+  color:coral;
+  font-size: 2.5rem;
+  font-weight:7px;
+  font-style:italic;
+}
+.text1{
+  font-size: 1.5rem;
+}
+.text1:hover{
+  color:green;
+  font-size: 2rem;
+  font-weight:7px;
+  font-style:italic;
+}
+.wf{
+  font-size: 2rem;
+  
+}
+.wf:hover{
+  color: green;
+  font-size: 2.4rem;
+  font-weight:7px;
+  font-style:italic;
+}
+.fa-ul{
+  font-size: 1.5rem;
+  color: chocolate;
+}
+
+
+
+
+
 
 
 body {
