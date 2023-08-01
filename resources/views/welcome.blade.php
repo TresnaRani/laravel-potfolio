@@ -20,6 +20,13 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Roboto:wght@100&display=swap" rel="stylesheet">
         <link href="{{asset('css/styles.css')}}" rel="stylesheet" />
+        <script>
+      src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.26.0/axios.min.js"
+      integrity="sha512-bPh3uwgU5qEMipS/VOmRqynnMXGGSRv+72H/N260MQeXZIK4PG48401Bsby9Nq5P5fz7hy5UGNmC/W1Z51h2GQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+</script>
+   
     </head>
     <body id="page-top mb-5">
         <!-- Navigation-->
@@ -171,8 +178,12 @@
 								<img class="card-img-top" src="assets/img/p-4.png" alt="Card image cap">
 								<div class="card-body">
 								  <h5 class="card-title">Library Management System</h5>
-								  <h6 class="card">This library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates. This system completely automates all your library's activities.</h6>
-								  <a href="http://seminar-library-cse-ru.infinityfreeapp.com/" class="btn btn-success" target="_blank">View Demo</a>
+								  <h6 class="card-text">This library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates. This system completely automates all your library's activities.</h6>
+                                  <br>
+                                  <br>
+                                  
+                                
+                                <a href="http://seminar-library-cse-ru.infinityfreeapp.com/" class="btn btn-success" target="_blank">View Demo</a>
 								</div>
 							  </div>
 							  
@@ -184,6 +195,8 @@
 								  <br>
                                   <br>
                                   <br>
+                                  <br>
+                               
                                   <a href="#" class="btn btn-success">View Demo</a>
 								</div>
 							  </div>
@@ -193,6 +206,7 @@
 								  <h5 class="card-title">Smart Bidding Tour With AI</h5>
 								  <h6 class="card-text">Our system is an end to end complete software solution which will help the tourists to provide service manager,booking pricing and other inventory.</h6>
 								  <br>
+                                  <br>
                                   <br>
                                   <br>
                                   <a href="https://smart.bidding.tour.evaxbd.com/" class="btn btn-success">View Demo</a>
@@ -215,7 +229,7 @@
             <!-- Awards-->
             <section class="resume-section" id="awards">
                 <div class="resume-section-content">
-                    <h2 class="mb-5">Awards & Certifications</h2>
+                    <h2 class="ESA mb-5">Awards & Certifications</h2>
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>

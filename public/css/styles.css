@@ -285,7 +285,33 @@ P::first-letter{
   color: chocolate;
 }
 .card:hover{
-  box-shadow: 5px 5px 8px chartreuse;
+  box-shadow: 15px 15px 15px  chartreuse;
+ 
+}
+.btn:hover {
+  border-radius: 16px;
+  background-color: red !important;
+
+}
+.ESA{
+ 
+  background-color: coral;
+  width: 400px;
+  height: 190px;
+  font-size: 1.4rem;
+  text-align: center;
+  color: white;
+  margin: 0 auto;
+  transition-property: width;
+  transition-duration: 1s;
+  transition-delay: 1s;
+  transition-timing-function: ease-in-out;
+
+}
+.ESA:hover{
+  background-color: green;
+  width: 400px;
+ 
 }
 
 
