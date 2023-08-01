@@ -60,8 +60,8 @@
                         <span class="name">Rani</span>
                     </h1>
                     <div class="subheading mb-5">
-                        Bogura,Bangladesh · (880) 1737336101 ·
-                        <a href="#">tresna312@gmail.com</a>
+                        <p>Bogura,Bangladesh · (880) 1737336101 </p>
+                        <a href="#"><span><b>Email :tresna312@gmail.com </b></span></a>
                     </div>
                     <p class="lead mb-5">I'm experienced in Laravel frameworks to provide a high secure  website. I am also make a website using PHP,HTML,CSS, JavaScript and MySQL.</p>
                     <div class="social-icons">

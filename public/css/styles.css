@@ -11601,7 +11601,11 @@ p.lead {
   font-weight: 400;
 }
 .name{
-  color: green;
+  color: coral;
+}
+.lead:hover{
+  font-size: 1.5rem;
+
 }
 
 .subheading {
