@@ -284,72 +284,33 @@ Your browser doesn't support html5 video element
 <p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Please do not hesitate to contact directly.I will come back to you within
     a matter of hours to help you.</p>
 
-<div class="row">
-
-    <!--Grid column-->
-    <div class="col-md-9 mb-md-0 mb-5">
-        <form id="contact-form" name="contact-form" action="mail.php" method="POST">
-
-            <!--Grid row-->
-            <div class="row">
-
-                <!--Grid column-->
-                <div class="col-md-6">
-                    <div class="md-form mb-0">
-                        <input type="text" id="name" name="name" class="form-control">
-                        <label for="name" class="">Your name</label>
-                        <br>
-                    </div>
-                </div>
-                <!--Grid column-->
-
-                <!--Grid column-->
-                <div class="col-md-6">
-                    <div class="md-form mb-0">
-                        <input type="text" id="email" name="email" class="form-control">
-                        <label for="email" class="">Your email</label>
-                        <br>
-                    </div>
-                </div>
-                <!--Grid column-->
-
-            </div>
-            <!--Grid row-->
-
-            <!--Grid row-->
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="md-form mb-0">
-                        <input type="text" id="subject" name="subject" class="form-control">
-                        <label for="subject" class="">Subject</label>
-                        <br>
-                    </div>
-                </div>
-            </div>
-            <!--Grid row-->
-
-            <!--Grid row-->
-            <div class="row">
-
-                <!--Grid column-->
-                <div class="col-md-12">
-
-                    <div class="md-form">
-                        <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
-                        <label for="message">Your message</label>
-                        <br>
-                    </div>
-
-                </div>
-            </div>
-            <!--Grid row-->
-
-        </form>
-
-        <div class="text-center text-md-left">
-            <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
+    <form action="forms/contact.php" method="post" role="form" class="php-email-form p-3 p-md-4">
+        <div class="row">
+          <div class="col-xl-6 form-group">
+            <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+          </div>
+        
+          <div class="col-xl-6 form-group">
+            <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
+          </div>
         </div>
-        <div class="status"></div>
+        <p></p>
+        <div class="form-group">
+          <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
+        </div>
+        <p></p>
+        <div class="form-group">
+          <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+        </div>
+        <div class="my-3">
+          <div class="loading">Loading....</div>
+          <div class="error-message"></div>
+          <div class="sent-message">Your message has been sent. Thank you!</div>
+        </div>
+        <div class="text-center "><button type="submit" class="btn btn-success">Send Message</button></div>
+      </form>
+      <!--End Contact Form -->
+  
     </div>
     <!--Grid column-->
 
