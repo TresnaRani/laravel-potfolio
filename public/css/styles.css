@@ -216,13 +216,21 @@ P::first-letter{
 }
 .intro:hover{
   color: green;
-  font-size: 2rem;
-  font-weight: bolder;
-  font-style:italic ;
+  font-size: 2.5rem;
+  font-weight:7px;
+  font-style:italic;
 }
+
 .text{
-  text-shadow: #00199f;
+  color:coral;
+  border: 2px;
+  border:solid green 2px;
+  padding: 10px;
+  font-size: 18px;
+  color: #000;
+
 }
+
 
 
 

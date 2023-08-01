@@ -82,7 +82,7 @@
                             <div class="subheading mb-3"> <a class="social-icon2" href="#" style="text-decoration: none;" target="_blank">STDEVS</a></div>
                             <p>Best communication with team member.Follow MVC pattern.Good performance at OOD(Object Oriented Design)</p>
                         </div>
-                        <div class="flex-shrink-0"><span class="text-dark"><b>DATE :</b>October 2021 - Present</span></div>
+                        <div class="flex-shrink-0"><span class="text"><b>DATE :</b>October 2021 - Present</span></div>
                     </div>
                   
                 </div>
@@ -97,7 +97,7 @@
                             <h3 class="mb-0"style="font-family: 'Roboto', sans-serif;">University of Rajshahi</h3>
                             <div class="subheading mb-3">Bachelor of Science</div>
                             <div>Computer Science and Engineering</div>
-                            <p>GPA: 3.10</p>
+                           
                         </div>
                         <div class="flex-shrink-0"><span class="text-primary">February 2018 - January 2023</span></div>
                     </div>
