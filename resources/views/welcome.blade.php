@@ -20,12 +20,12 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Roboto:wght@100&display=swap" rel="stylesheet">
         <link href="{{asset('css/styles.css')}}" rel="stylesheet" />
-        <script>
+        <script
       src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.26.0/axios.min.js"
       integrity="sha512-bPh3uwgU5qEMipS/VOmRqynnMXGGSRv+72H/N260MQeXZIK4PG48401Bsby9Nq5P5fz7hy5UGNmC/W1Z51h2GQ=="
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
-</script>
+    ></script>
    
     </head>
     <body id="page-top mb-5">
@@ -268,10 +268,16 @@ Your browser doesn't support html5 video element
                    </div>
 </section>
 
+
+
 <!-- Appointments-->
-<section class="resume-section" id="Appointments">
+
+                    
+                    <section class="resume-section" id="Appointments">
                 <div class="resume-section-content">
-                    <h2 class="ESAA mb-5">Appointments</h2>
+                    <h2 class="ESA mb-5">Appointments</h2>
+</div>
+</section>
 
 
      
@@ -314,22 +320,7 @@ Your browser doesn't support html5 video element
     </div>
     <!--Grid column-->
 
-    <!--Grid column-->
-    <div class="col-md-3 text-center">
-        <ul class="list-unstyled mb-0">
-            <li><i class="fas fa-map-marker-alt fa-1x"></i>
-                <span>Bogura, Bangladesh</span>
-            </li>
-
-            <li><i class="fas fa-phone mt-4 fa-1x"></i>
-                <span>+ 01799223333</span>
-            </li>
-
-            <li><i class="fas fa-envelope mt-4 fa-1x"></i>
-                <span>tr@gmail.com</span>
-            </li>
-        </ul>
-    </div>
+    
     <!--Grid column-->
 
 </div>

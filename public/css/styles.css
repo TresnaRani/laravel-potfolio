@@ -290,7 +290,12 @@ P::first-letter{
 }
 .card:hover{
   box-shadow: 15px 15px 15px  chartreuse;
+  background-color: aqua;
  
+ 
+}
+.card{
+  color: white;
 }
 .btn:hover {
   border-radius: 16px;
@@ -4791,6 +4796,7 @@ textarea.form-control-lg {
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
+  color: white!important;
 }
 .card > hr {
   margin-right: 0;
@@ -11711,4 +11717,17 @@ section.resume-section .resume-section-content {
 .loading{
   color: hotpink;
 }
+
+/* reset code starts */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+/* reset code ends */
+
+
+
+
+/* responsive parts ends here  */
 

@@ -62,3 +62,17 @@ video.addEventListener("ended",function(){
 video.addEventListener("volumechange",function(){
     console.log("volumechange");
 })
+
+const fecthData = async (config) => {
+    try {
+      const res = await axios(config);
+      return res.data;
+    } catch (error) {
+      throw Error("Data is not Fetched");
+    }
+  };
+  
+  // selection
+  
+  
+
