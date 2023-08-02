@@ -83,7 +83,7 @@ img:hover{
   }
   to{
      
-     border-color: blue;
+     border-color:green;
       /* max-width: 500px;*/
   }
 }
@@ -94,8 +94,9 @@ img:hover{
 }
 
  nav ul li:hover{
-background-color: blue !important;
-
+background-color:green !important;
+color: #00199f;
+border-radius: 28px;
 text-decoration: underline;
 text-decoration-color: lawngreen;
 
