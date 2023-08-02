@@ -42,7 +42,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>		 
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
-					<li class="nav-item"><a class="nav-link js-scroll-trigger" href="#project">Projects</a></li>
+					          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#project">Projects</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Blog">Blog</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Appointments">Appointments</a></li>
@@ -256,20 +256,48 @@
                 <div class="resume-section-content">
                     <h2 class="ES mb-5">Blog</h2>
 
-
-                    
-    <video width="400" controls muted >
-
-<source src="assets/file/ram.mp4" type="video/mp4">
-
-Your browser doesn't support html5 video element
-
-
-
-</video>
-                   </div>
-</section>
-
+                    <div class="row ">
+                <div class="col-lg-3 my-5">
+                    <div class="card1">
+                        <div class="card-body">
+                            <img class="img1" src="assets/img/p6.jpg" alt=""width="200px" height="230px">
+                            <h4>News</h4>
+                        
+                            <div class="text-center"><button type="submit" class="btn btn-success">See Details</button></div>
+        </div>
+    </div>
+</div>
+    <div class="col-lg-3 my-5">
+        <div class="card1 ">
+            <div class="card-body">
+                  <img src="assets/img/p4.jpg" alt=""width="200px" height="230px" >
+                <h4>News</h4>
+              
+                <div class="text-center"><button type="submit" class="btn btn-success">See Details</button></div>
+</div>
+</div>
+</div>
+<div class="col-lg-3 my-5">
+<div class="card1">
+<div class="card-body">
+    <img src="assets/img/p7.jpg" alt=""width="200px" height="230px" >
+    <h4>News</h4>
+   
+    <div class="text-center"><button type="submit" class="btn btn-success">See Details</button></div>
+</div>
+</div>
+</div>
+<div class="col-lg-3 my-5">
+<div class="card1">
+<div class="card-body">
+    <img src="assets/img/p5.jpg" alt="" width="200px" height="230px" >
+    <h4>News</h4>
+   
+    <div class="text-center"><button type="submit" class="btn btn-success">See Details</button></div>
+    </div>
+        </div>
+            </div>
+             
 
 
 <!-- Appointments-->

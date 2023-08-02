@@ -11748,6 +11748,11 @@ section.resume-section .resume-section-content {
   font-size: 1.2rem;
 
 }
+.card1:hover{
+  box-shadow: 0 16px 32px 0 ;
+  color: #04414d;
+}
+
 
 
 
