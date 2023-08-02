@@ -289,7 +289,13 @@ Your browser doesn't support html5 video element
           <div>
             <br><br>
             <div class="icon">
-            <i class="fa-solid fa-circle-check fa-beat" style="background-color:white;color:coral; font-size: 1.5rem; "></i>  Saturday: 9:15:40 AM - 9:15:40 AM
+            <span class="check"><i class="fa-solid fa-circle-check fa-beat" style="background-color:white;color:coral; font-size: 1.5rem; "></i> <b>Saturday : </b>9:15:40 AM - 9:15:40 AM</span><br><br>
+            <span class="check"><i class="fa-solid fa-circle-check fa-beat" style="background-color:white;color:coral; font-size: 1.5rem; "></i>  <b>Sunday : </b> 9:15:40 AM - 9:15:40 AM</span><br><br>
+            <span class="check"><i class="fa-solid fa-circle-check fa-beat" style="background-color:white;color:coral; font-size: 1.5rem; "></i> <b>Monday : </b>9:15:40 AM - 9:15:40 AM</span><br><br>
+            <span class="check"><i class="fa-solid fa-circle-check fa-beat" style="background-color:white;color:coral; font-size: 1.5rem; "></i>  <b>Tuesday : </b>9:15:40 AM - 9:15:40 AM</span><br><br>
+            <span class="check"><i class="fa-solid fa-circle-check fa-beat" style="background-color:white;color:coral; font-size: 1.5rem; "></i>  <b>Wednesday : </b>9:15:40 AM - 9:15:40 AM</span><br><br>
+            <span class="check"><i class="fa-solid fa-circle-check fa-beat" style="background-color:white;color:coral; font-size: 1.5rem; "></i> <b>Thursday : </b>9:15:40 AM - 9:15:40 AM</span><br><br>
+            <span class="check"><i class="fa-solid fa-circle-check fa-beat" style="background-color:white;color:coral; font-size: 1.5rem; "></i> <b>Friday : </b>9:15:40 AM - 9:15:40 AM</span><br><br>
           </div>
           </div>
           
