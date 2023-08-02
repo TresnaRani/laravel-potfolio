@@ -60,8 +60,10 @@
                         <span class="name">Rani</span>
                     </h1>
                     <div class="subheading mb-5">
-                        <p>Bogura,Bangladesh · (880) 1737336101 </p>
-                        <a href="#"><span><b>Email :tresna312@gmail.com </b></span></a>
+                        <p>Bogura,Bangladesh ·<i class="fa fa-phone" aria-hidden="true"></i>
+                                                                                                 (880) 1737336101 </p>
+                        <a href="#"><span><i class="fa fa-envelope" aria-hidden="true"></i>
+                                                                tresna312@gmail.com </span></a>
                     </div>
                     <p class="lead mb-5">I'm experienced in Laravel frameworks to provide a high secure  website. I am also make a website using PHP,HTML,CSS, JavaScript and MySQL.</p>
                     <div class="social-icons">
@@ -230,8 +232,8 @@
            
             <!-- Awards-->
             <section class="resume-section" id="awards">
-                <div class="resume-section-content">
-                    <h2 class="ESA mb-5">Awards & Certifications</h2>
+                <div class="resume-section-content" style="margin-top:-200px !important;">
+                    <h2 class="ESA" style="padding-top:20px !important;margin-top:-150px !important;margin-bottom:50px !important;" >Awards & Certifications</h2>
                     <ul class="fa-ul mb-0">
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
@@ -273,11 +275,81 @@ Your browser doesn't support html5 video element
 <!-- Appointments-->
 
                     
-                    <section class="resume-section" id="Appointments">
-                <div class="resume-section-content">
-                    <h2 class="ESA mb-5">Appointments</h2>
+     <section class="resume-section" id="Appointments">
+                
+     <div class="resume-section-content">
+                    
+     <h2 class="ESA mb-5">Appointments</h2>
+
+     <div class="row g-0">
+      <h3>My Appointments</h3>
+      <p>Before booking an appointment please
+        <br> check my availability </br></p>
+        <div class="col-lg-5">
+          <div>
+            <br><br>
+            <div class="icon">
+            <i class="fa-solid fa-circle-check fa-beat" style="background-color:white;color:coral; font-size: 1.5rem; "></i>  Saturday: 9:15:40 AM - 9:15:40 AM
+          </div>
+          </div>
+          
+          </div>
+                   
+
+          <!----<div class="col-lg-4 reservation-img h-100%" style="background-image: url(img/restuarent1.jpg);" data-aos="zoom-out" data-aos-delay="200"></div>
+        ---->
+          <div class="col-lg-7 d-flex align-items-center reservation-form-bg">
+            <form action="forms/book-a-table.php" method="post" role="form" class="php-email-form" data-aos="fade-up" data-aos-delay="100">
+              <div class="row gy-4">
+                <div class="col-lg-4 col-md-6">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                  <div class="validate">
+                    <br>
+                  </div>
+                </div>
+          
+
+                <div class="col-lg-4 col-md-6">
+                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email">
+                  <div class="validate"></div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <input type="text" class="form-control" name="phone" id="phone" placeholder="Your Phone" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                  <div class="validate"></div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <input type="date" name="date" class="form-control" id="date" placeholder="Date" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                  <div class="validate"></div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <input type="text" class="form-control" name="time" id="time" placeholder="Time" data-rule="minlen:4" data-msg="Please enter at least 4 chars">
+                  <div class="validate"></div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                  <input type="number" class="form-control" name="people" id="people" placeholder="# of people" data-rule="minlen:1" data-msg="Please enter at least 1 chars">
+                  <div class="validate"></div>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message"></textarea>
+                <div class="validate"></div>
+              </div>
+              <div class="mb-3">
+                <div class="loading ">Loading...</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your request was sent. We will call back or send an Email to confirm your reservation. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit" class="btn btn-success">Book Appointment</button></div>
+            </form>
+          </div><!-- End Reservation Form -->
+
+        </div>
 </div>
 </section>
+
+
+
+
 
 
      

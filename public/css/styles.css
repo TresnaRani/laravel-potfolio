@@ -191,6 +191,11 @@ p:hover{
   font-size:25px;
   
 }
+span:hover{
+  color: green;
+  font-size:25px;
+
+}
 P::first-letter{
   color:coral;
   font-size:2.5rem;
@@ -198,7 +203,7 @@ P::first-letter{
 .exp{
  
   background-color: coral;
-  width: 205px;
+  width: 212px;
   height: 80px;
   text-align: center;
   color: white;
@@ -207,6 +212,7 @@ P::first-letter{
   transition-duration: 2s;
   transition-delay: 1s;
   transition-timing-function: ease-in-out;
+  padding:5px;
 
 }
 .exp:hover{
@@ -236,7 +242,7 @@ P::first-letter{
 .ES{
  
   background-color: coral;
-  width: 205px;
+  width: 212px;
   height: 80px;
   text-align: center;
   color: white;
@@ -245,6 +251,7 @@ P::first-letter{
   transition-duration: 2s;
   transition-delay: 1s;
   transition-timing-function: ease-in-out;
+  padding:5px;
 
 }
 .ES:hover{
@@ -289,14 +296,13 @@ P::first-letter{
   color: green;
 }
 .card:hover{
-  box-shadow: 15px 15px 15px  chartreuse;
+  box-shadow: 15px 15px 15px  darkcyan;
   background-color: aqua;
- 
- 
-}
-.card{
   color: white;
+ 
+ 
 }
+
 .btn:hover {
   border-radius: 16px;
   background-color: red !important;
@@ -305,22 +311,24 @@ P::first-letter{
 .ESA{
  
   background-color: coral;
-  width: 280px;
+  width: 300px;
   height: 80px;
   font-size: 1.9rem;
   text-align: center;
   color: white;
   margin: 0 auto;
   transition-property: width;
-  transition-duration: .8s;
+  transition-duration: 2s;
   transition-delay: 1s;
   transition-timing-function: ease-in-out;
-  padding: 10px;
+  padding-top:10px;
+  padding-bottom: 8px;
 
 }
 .ESA:hover{
   background-color: green;
   width: 400px;
+  padding: 15px;
  
 }
 
@@ -11729,7 +11737,13 @@ section.resume-section .resume-section-content {
   padding: 0;
 }
 /* reset code ends */
+.fa-solid {
 
+  font-size: 1.2rem;
+ 
+  padding-top: 9px;
+  
+}
 
 
 
