@@ -130,17 +130,17 @@
                     <label for="" style="font-size:20px;"><b>CSS</b></label>
                     
                     <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 98%; background-color:green;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>98%</b></div>
+                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 98%; background-color:coral;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>98%</b></div>
                     </div>
                     <label for="" style="font-size:20px;"><b>JS</b></label>
                     
                     <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 90%; background-color:green;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>90%</b></div>
+                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 90%; background-color:DeepPink;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>90%</b></div>
                     </div>
                     <label for="" style="font-size:20px;"><b>Laravel</b></label>
                     
                     <div class="progress">
-                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 80%; background-color:green;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>80%</b></div>
+                        <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" style="width: 80%; background-color:MediumSlateBlue;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"><b>80%</b></div>
                     </div>
 </br>
                     <div class="wf mb-3">Workflow</div>
@@ -376,8 +376,9 @@
                 <div class="validate"></div>
               </div>
               <div class="mb-3">
-                <div class="loading ">Loading...</div>
+      
                 <div class="error-message"></div>
+                <br>
                 <div class="sent-message">Your request was sent. We will call back or send an Email to confirm your reservation. Thank you!</div>
               </div>
               <div class="text-center"><button type="submit" class="btn btn-success">Book Appointment</button></div>
@@ -422,8 +423,9 @@
           <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
         </div>
         <div class="my-3">
-          <div class="loading">Loading....</div>
+         
           <div class="error-message"></div>
+          <br>
           <div class="sent-message">Your message has been sent. Thank you!</div>
         </div>
         <div class="text-center "><button type="submit" class="btn btn-success">Send Message</button></div>
