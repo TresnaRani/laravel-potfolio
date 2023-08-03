@@ -42,7 +42,7 @@
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>		 
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
-					        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#project">Projects</a></li>
+					         <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#project">Projects</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Blog">Blog</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#Appointments">Appointments</a></li>
@@ -76,7 +76,7 @@
 					<br>
                     <div class="cv">
                     <a href="assets/file/cv.pdf" class="btn btn-success" target="_blank"download>Download my CV</a>
-                </div>
+                  </div>
                     </div>
 				
 					  
@@ -176,8 +176,8 @@
         
 							</div>
 						 <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <div class="card-group">
+               <div class="flex-grow-1">
+               <div class="card-group">
 							  <div class="card" style="margin-right:10px;">
 								<img class="card-img-top" src="assets/img/p-4.png" alt="Card image cap">
 								<div class="card-body">
@@ -185,13 +185,12 @@
 								  <h6 class="card-text">This library management system is software that is designed to manage all the functions of a library. It helps librarian to maintain the database of new books and the books that are borrowed by members along with their due dates. This system completely automates all your library's activities.</h6>
                                   <br>
                                   <br>
-                                  
-                                
-                                <a href="http://seminar-library-cse-ru.infinityfreeapp.com/" class="btn btn-success" target="_blank">View Demo</a>
+                              
+                  <a href="http://seminar-library-cse-ru.infinityfreeapp.com/" class="btn btn-success" target="_blank">View Demo</a>
 								</div>
 							  </div>
 							  
-                              <div class="card" style="margin-right:10px;">
+                <div class="card" style="margin-right:10px;">
 								<img class="card-img-top" src="assets/img/p-2.png" alt="Card image cap">
 								<div class="card-body">
 								  <h5 class="card-title">Advance Coaching Management System</h5>
@@ -201,10 +200,10 @@
                                   <br>
                                   <br>
                                
-                                  <a href="#" class="btn btn-success">View Demo</a>
+                  <a href="#" class="btn btn-success">View Demo</a>
 								</div>
 							  </div>
-                              <div class="card ">
+                <div class="card ">
 								<img class="card-img-top" src="assets/img/p-5.png" alt="Card image cap">
 								<div class="card-body">
 								  <h5 class="card-title">Smart Bidding Tour With AI</h5>
@@ -213,19 +212,16 @@
                                   <br>
                                   <br>
                                   <br>
-                                  <a href="https://smart.bidding.tour.evaxbd.com/" class="btn btn-success">View Demo</a>
+                  <a href="https://smart.bidding.tour.evaxbd.com/" class="btn btn-success">View Demo</a>
 								</div>
 							  </div>
 							 
 							</div>
-                        </div>
-                     
-                    </div>
-                  
-                </div>
+        </div>
+          </div>
+            </div>
             </section>
-			
-			  <hr class="m-0" />
+			 <hr class="m-0" />
 			
 			
 			
@@ -233,8 +229,14 @@
             <!-- Awards-->
             <section class="resume-section" id="awards">
                 <div class="resume-section-content" style="margin-top:-200px !important;">
-                    <h2 class="ESA" style="padding-top:20px !important;margin-top:-150px !important;margin-bottom:50px !important;" >Awards & Certifications</h2>
-                    <ul class="fa-ul mb-0">
+                    <h2 class="ES">Awards</h2>
+                    
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        
+                    
+</div>
+                      <ul class="fa-ul mb-0">
+
                         <li>
                             <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
                          
@@ -256,44 +258,50 @@
                 <div class="resume-section-content">
                     <h2 class="ES mb-5">Blog</h2>
 
-                    <div class="row ">
+              <div class="row ">
                 <div class="col-lg-3 my-5">
                     <div class="card1">
                         <div class="card-body">
                             <img class="img1" src="assets/img/p6.jpg" alt=""width="200px" height="230px">
-                            <h4>News</h4>
+                           
+                            <p>If you want more details,follow our activitis.</p>
                         
-                            <div class="text-center"><button type="submit" class="btn btn-success">See Details</button></div>
+             <div class="text-center"><button type="submit" class="btn btn-success">==></button></div>
         </div>
     </div>
 </div>
     <div class="col-lg-3 my-5">
         <div class="card1 ">
             <div class="card-body">
-                  <img src="assets/img/p4.jpg" alt=""width="200px" height="230px" >
-                <h4>News</h4>
+              <img src="assets/img/p4.jpg" alt=""width="200px" height="230px" >
+          
+                <p>If you want more details,follow our activitis.</p>
+                        
               
-                <div class="text-center"><button type="submit" class="btn btn-success">See Details</button></div>
+            <div class="text-center"><button type="submit" class="btn btn-success">==></button></div>
 </div>
 </div>
 </div>
-<div class="col-lg-3 my-5">
-<div class="card1">
-<div class="card-body">
-    <img src="assets/img/p7.jpg" alt=""width="200px" height="230px" >
-    <h4>News</h4>
-   
-    <div class="text-center"><button type="submit" class="btn btn-success">See Details</button></div>
+      <div class="col-lg-3 my-5">
+          <div class="card1">
+              <div class="card-body">
+                 <img src="assets/img/p7.jpg" alt=""width="200px" height="230px" >
+               
+                   <p>If you want more details,follow our activitis.</p>
+                        
+                   <div class="text-center"><button type="submit" class="btn btn-success">==> </button></div>
+                  
 </div>
 </div>
 </div>
-<div class="col-lg-3 my-5">
-<div class="card1">
-<div class="card-body">
-    <img src="assets/img/p5.jpg" alt="" width="200px" height="230px" >
-    <h4>News</h4>
-   
-    <div class="text-center"><button type="submit" class="btn btn-success">See Details</button></div>
+          <div class="col-lg-3 my-5">
+              <div class="card1">
+                  <div class="card-body">
+                      <img src="assets/img/p5.jpg" alt="" width="200px" height="230px" >
+                          
+                           <p>If you want more details,follow our activitis.</p>
+                        
+                      <div class="text-center"><button type="submit" class="btn btn-success">==></button></div>
     </div>
         </div>
             </div>
@@ -306,7 +314,6 @@
      <section class="resume-section" id="Appointments">
                 
      <div class="resume-section-content">
-                    
      <h2 class="ESA mb-5">Appointments</h2>
 
      <div class="row g-0">
@@ -424,17 +431,12 @@
       <!--End Contact Form -->
   
     </div>
-    <!--Grid column-->
-
-    
-    <!--Grid column-->
-
 </div>
-
 </section>
-<!--Section: Contact v.2-->
-        </div>
-        <!-- Bootstrap core JS-->
+</div>
+        
+
+<!-- Bootstrap core JS-->
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
         <!-- Core theme JS-->
         <script src="js/scripts.js"></script>
